@@ -8,7 +8,7 @@ const {
   deleteThought,
   createReaction,
   deleteReaction
-} = require('/Users/mariamabah/Desktop/Social-Network-API-18/controllers/thought-controllers.js');
+} = require('/Users/mariamabah/Desktop/Social-Network-18/Social-Network-API-18/controllers/thought-controllers.js');
 
 // Set up GET all and POST at /api/thoughts
 router

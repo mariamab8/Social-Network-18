@@ -8,7 +8,7 @@ const {
     deleteUser,
     addFriend,
     deleteFriend
-  } = require('/Users/mariamabah/Desktop/Social-Network-API-18/controllers/user-controller.js');
+  } = require('/Users/mariamabah/Desktop/Social-Network-18/Social-Network-API-18/controllers/user-controller.js');
 
 // Set up GET all and POST at /api/users
 router
